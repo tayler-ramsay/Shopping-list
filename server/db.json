@@ -1,0 +1,23 @@
+{
+  "shoppinglists": [
+    {
+      "title": "food",
+      "items": [
+        {
+          "text": "bread",
+          "checked": true
+        },
+        {
+          "text": "soda",
+          "checked": false
+        }
+      ],
+      "id": 6
+    },
+    {
+      "title": "Clothes",
+      "items": [],
+      "id": 7
+    }
+  ]
+}
